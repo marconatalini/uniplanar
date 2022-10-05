@@ -1,0 +1,756 @@
+----------------------- Page 1-----------------------
+
+Pagina 1 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Cliente 002993 IMACO SPA 
+
+VIALE CASTRO PRETORIO 122 
+
+00185 ROMA RM 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+Tipo Alluminio: UNIPLANAR 81 R 
+
+
+
+Finitura Alluminio RAL 9001 GOFF. OPACO RIV.ALL. 
+
+
+
+1 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001541 1035 x 1700 NR 1 1 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1691 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1565 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1575 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1499 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+2 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001542 1035 x 1700 NR 1 3 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1691 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1565 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1575 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1499 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 2-----------------------
+
+Pagina 2 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+3 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001543 1035 x 1770 NR 1 5 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1761 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1635 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1645 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1569 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+4 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001544 1035 x 1315 NR 1 7 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1306 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1180 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1190 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1114 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 3-----------------------
+
+Pagina 3 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+5 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001545 1035 x 1315 NR 1 9 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1306 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1180 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1190 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1114 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+6 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001546 1035 x 1315 NR 1 11 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1306 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1180 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1190 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1114 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 4-----------------------
+
+Pagina 4 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+7 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001547 1035 x 1315 NR 1 13 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1306 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1180 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1190 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1114 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+8 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001548 1035 x 1315 NR 1 15 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1306 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1180 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1190 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1114 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 5-----------------------
+
+Pagina 5 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+9 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001549 995 x 1855 NR 1 17 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.987 X A.1846 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.861 X A.1720 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.872 X A.1730 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.796 X A.1654 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+10 LGPFNSTD1.1N PORTAF.1A L/A UNIPLANAR 81R 000639 995 x 2850 NR 1 19 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.987 X A.2841 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.861 X A.2715 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.872 X A.2725 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.796 X A.2649 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 6-----------------------
+
+Pagina 6 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+11 LGPFNSTD1.1N PORTAF.1A L/A UNIPLANAR 81R 000640 995 x 2850 NR 1 21 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.987 X A.2841 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.861 X A.2715 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.872 X A.2725 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.796 X A.2649 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+12 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001550 1035 x 1855 NR 1 23 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1846 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1720 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1730 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1654 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 7-----------------------
+
+Pagina 7 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+13 LGPFNSTD1.1N PORTAF.1A L/A UNIPLANAR 81R 000641 995 x 2850 NR 1 25 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.987 X A.2841 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.861 X A.2715 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.872 X A.2725 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.796 X A.2649 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+14 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001551 1035 x 1700 NR 1 27 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1691 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1565 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1575 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1499 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 8-----------------------
+
+Pagina 8 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+15 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001552 1035 x 1700 NR 1 29 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.1027 X A.1691 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.901 X A.1565 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.912 X A.1575 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.836 X A.1499 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+16 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001553 760 x 1350 NR 1 31 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.752 X A.1341 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.626 X A.1215 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.637 X A.1225 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.561 X A.1149 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+----------------------- Page 9-----------------------
+
+Pagina 9 
+
+
+
+LISTE CONTROLLO RIQUADRI ALLUMINIO 
+
+
+
+Data di stampa:04.10.2022 Cod.Lista: 04.003X Versione: 23.0 
+
+
+
+CPR.23.016 RED GRANDIS 
+
+
+
+Ordine 2022-OCI1-2248714 8714 del 08/06/2022 Pronto per: 15/02/2023 
+
+
+
+Riferimento VILLA CLEMENTI - EDIFICIO 1 - PT 
+
+
+
+Pos. Articolo Descrizione Variante Mis. rif. Lx H Um Q.tà Riga 
+
+
+
+17 LGFINSTD1.1N FINESTRA 1A L/A UNIPLANAR 81R 001554 695 x 1350 NR 1 33 
+
+
+
+Allum. EXT Allum. SX DX AX BX CX ZOC 
+
+Misure di controllo 
+
+
+
+RIQUADRO TELAIO ALLUMINIO L.687 X A.1341 AK63.080 AK63.080 AK63.080 AK63.080 
+
+L.561 X A.1215 
+
+
+
+RIQUADRO ANTA ALLUMINIO L.572 X A.1225 AK38.080 AK38.080 AK38.080 AK38.080 
+
+L.496 X A.1149 
+
+
+
+Coprifili NON PRESENTE 
+
+Campagnole NON PRESENTE 
+
+
+
+Totale Ordine 2022-OCI1-2248714 NR 17 
+
