@@ -1,0 +1,32 @@
+1;	1
+1;	cliente
+T30 12 0012345/123; Riferimento cliente
+11112; Numero proprio dell'ordine
+Commento dell'ordine; Commento all'ordine
+P,1,T3012 0012345/123,900,1500,3,65,1200,21;
+P,2,T3012 0012345/123,900,1500,3,65,1100,21;
+T,23,1296;
+T,24,1296;
+T,25,1296;
+T,26,1296;
+T,9,1432;
+A,2,3245,3;
+P,0,0;   fine righe ordine
+
+
+Nr Versione;	1
+Nr.cliente;	
+Riferimento cliente;
+Numero proprio dell'ordine;
+Commento all'ordine;
+"P",[Numero progressivo],"Testo descr.Abbr.",[L],[H],[Qtà],[Tab.Tec],[Tipol],[Colore]
+"T",[N.Riga TabTec],[Valore]
+"T",....
+"A",[N.ProfiloCSM],[Lunghezza],[Qtà]
+"A",....
+"P",[Numero progressivo],"Testo descr.Abbr.",[L],[H],[Qtà],[Tab.Tec],[Tipol],[Colore]
+"T",[N.Riga TabTec],[Valore]
+"T",....
+"A",[N.ProfiloCSM],[Lunghezza],[Qtà]
+"A",....
+"P",0,0;   fine righe ordine

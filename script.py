@@ -9,5 +9,7 @@ def main():
     for s in ordine.serramenti:
         print(s)
 
+    ordine.esporta()
+
 if __name__ == '__main__':
     main()
